@@ -1,4 +1,1 @@
-para rodar:
--instalar as dependências do maven.
--de preferência criar um ear no wildfly ou servidor usado.
--acessar : localhost:8000/nome-projeto.
+Para rodar o projeto, instalar as dependências do maven, rodar no wildfly(preferência criar uma ear no mesmo), e depois acessar localhost:8000/ecommerce-web.
